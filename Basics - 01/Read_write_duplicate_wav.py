@@ -1,8 +1,10 @@
 # Audio file formats
 
-# .mp3
-# .flac
-# .wav (standard)
+# .mp3 - lossy 
+
+# .flac - lossless
+
+# .wav (standard)  - uncompressed
 
 import wave
 
